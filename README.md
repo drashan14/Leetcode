@@ -1,2 +1,2 @@
 # Leetcode
-All Types of Questions
+All Types of leetcode questions are present here.
